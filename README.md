@@ -1,12 +1,13 @@
 Uxperts - Diabetes Meal Planner
 
 Team Members
-Jumaina Karim
 
-Maram Waleed
+-Jumaina Karim
 
-Pilara Wahba
+-Maram Waleed
 
-Waleed Ibrahim
+-Pilara Wahba
 
-Mostafa Atef
+-Waleed Ibrahim
+
+-Mostafa Atef
